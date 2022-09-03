@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDrawingApp</string>
+    <string name="wait">Please wait…</string>
+</resources>
